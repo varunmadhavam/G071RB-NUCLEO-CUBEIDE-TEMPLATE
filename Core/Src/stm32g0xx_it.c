@@ -20,7 +20,6 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32g0xx.h"
-#include "stm32g0xx_it.h"
 #include "systick.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
